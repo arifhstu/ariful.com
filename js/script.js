@@ -19,7 +19,7 @@ $(document).ready(function() {
 
 	var typed = new Typed(".typed", {
 		// strings: ["Web Designer.", "Expert in HTML5, CSS3, Bootstrap.", "Expert in PSD TO HTML."],
-		strings: ["Expert in Web Design", "Expert in HTML5", "Expert in CSS3", "Expert in Bootstrap", "Expert in PSD TO HTML.",  "Expert in WordPress."],
+		strings: ["Studies at HSTU, Dinajpur", "Dept. of ECE", "Expert in Web Design", "Expert in HTML5", "Expert in CSS3", "Expert in Bootstrap", "Expert in PSD TO HTML.",  "Expert in WordPress."],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 1000,
@@ -173,9 +173,8 @@ $(document).ready(function() {
     // delay: 100,
     // time: 10000
     // }); 
+
 });
-
-
 
 
 
